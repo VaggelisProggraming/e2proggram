@@ -1,23 +1,12 @@
-@media (max-width: 499px) {
-    ul {
-        background-image: url(./download.jpg);
-        height: 400px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
-}
 body {
-    background-image: url(./background.jpg  );
+    background-image: url(./background.jpg);
 }
 .details {
     text-align: right;
 }
 ul {
     background-image: url(./download.jpg);
-    height: 370px;
-    display: block;
+    height: 370;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
@@ -35,7 +24,7 @@ ul {
     white-space: pre-line;
 }
 .yellow-mode {
-    background-image: url(./yelolw.jpg);
+    background-image: url(./yellow.png);
     color: purple;
 }
 
@@ -57,7 +46,7 @@ ul {
     color: green;
 }
 table {
-    background-image: url(./download.jpg);
+    /* background-image: url(./download.jpg); */
     height: 370px;
     display: block;
     margin-left: auto;
