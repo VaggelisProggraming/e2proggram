@@ -1,12 +1,8 @@
 body {
-    background-image: url(./brawstars.jpg);
+    background-image: url(./background.jpg);
 }
 .details {
     text-align: right;
-}
-.brawstars {
-    background-image: url(brawstars.jpg);
-    color: black;
 }
 ul {
     background-image: url(./download.jpg);
