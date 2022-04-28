@@ -2,12 +2,6 @@ function dark_mode() {
     var element = document.body;
     element.classList.toggle("dark-mode");
 }
-function chris_mode() {
-    var element = document.body;
-    element.classList.toggle("brawstars");
-}
-
-
 function white_mode() {
     var element = document.body;
     element.classList.toggle("light-mode");
