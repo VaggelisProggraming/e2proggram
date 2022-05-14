@@ -1,6 +1,9 @@
 body {
     background-image: url(./background.jpg);
 }
+a {
+color:white;
+}
 .details {
     text-align: right;
 }
